@@ -1,2 +1,2 @@
-# blobzor
+# Blobzor
 Sample Blazor LOB app
